@@ -77,7 +77,7 @@ const PostWidget = ({postId, postUserId, name, description, location, picturePat
                         <Box key={`${name}-${i}`}>
                             <Divider />
                             <Typography sx={{color: main, m:"0.5rem 0", pl: "1rem"}}>
-                                {comment}
+                                {comment || 'No text available'}
                             </Typography>
                         </Box>
                     ))}
