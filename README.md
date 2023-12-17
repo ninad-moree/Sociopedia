@@ -1,5 +1,7 @@
 # Sociopedia
-A full stack  MERN react responsive website built using reactjs as frontend and nodejs as backend.
+A full stack  MERN responsive website. Website has user login options and each user can post images on the website 
+and like each others post, comment on post and add or remove a user as friend. Light and dark mode is also implemented 
+in the website.
 
 ### Key Features
 - User Authentication
