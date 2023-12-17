@@ -30,3 +30,11 @@ function App() {
 }
 
 export default App;
+
+/*
+  email - ninad@gmail.com
+  pwd - ninad
+
+  client - npm run start
+  server - nodemon index.js
+*/
